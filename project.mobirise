@@ -739,7 +739,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
                 "active": false,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
